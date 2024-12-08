@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+.Lightmode{
+    height: 50px;
+    width: 50px;
+    margin-left: 70%;
+    
+    margin-top: 2%;
+
+}
+
+.Spets{
+
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: "Concert One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.SuggPets{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.SuggName{
+    display: flex;
+    font-size: larger;
+    padding: 10px;
+    font-family: "Concert One", sans-serif;
+    font-style: normal;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.suggHeader{
+    display: flex;
+    font-size: 30px;
+    padding: 5px;
+    font-family: "Concert One", sans-serif;
+    font-style: normal;
+    color: black;
+    
+    font-weight: bold;
+    margin-left: 250px;
+    margin-top:150px;
+}
+
+
+.Container{
+    margin: 0;
+    background-color: aqua;
+    
+}
+
+.Href{
+    cursor: pointer;
+    font-style: none;
+    text-decoration: none;
+    display: flex;
+    padding: 10px;
+}
+
+.container2{
+    cursor: pointer;
+    right: 10px;
+    margin-left: 245px;
+    padding-left: 60px;
+    align-items: center;
+    
+}
+
+.sugg{
+    display: flex;
+    margin-top: 30px;
+}
